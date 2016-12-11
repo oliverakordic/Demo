@@ -4,6 +4,8 @@ public class Student {
 	private String prezime;
 	private String brIndeksa;
 	private int godinaUpisa;
+	private int provera;
+	
 	public String getIme() {
 		return ime;
 	}
